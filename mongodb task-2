@@ -1,0 +1,369 @@
+database/mongodb/day-2/database-design-zen-class.txt
+
+[
+  {
+    "Attendance": "present",
+    "Codekata": 500,
+    "Placement": "yes",
+    "Tasks": "array problems",
+    "Topics": "CSS",
+    "_id": ObjectId("5a934e000102030405000000"),
+    "company_drives": "zoho",
+    "date": "2021-10-01",
+    "id": "1",
+    "mentors": "Trijal",
+    "month": "october",
+    "users": "Lekh"
+  },
+  {
+    "Attendance": "present",
+    "Codekata": 500,
+    "Placement": "yes",
+    "Tasks": "web page",
+    "Topics": "Responsive web design",
+    "_id": ObjectId("5a934e000102030405000001"),
+    "company_drives": "paypal",
+    "date": "2021-10-04",
+    "id": "2",
+    "mentors": "Trijal",
+    "month": "october",
+    "users": "Tejas"
+  },
+  {
+    "Attendance": "present",
+    "Codekata": 600,
+    "Placement": "yes",
+    "Tasks": "responsive design",
+    "Topics": "Bootstrap design demo",
+    "_id": ObjectId("5a934e000102030405000002"),
+    "company_drives": "hcl",
+    "date": "2021-10-05",
+    "id": "3",
+    "mentors": "Trijal",
+    "month": "october",
+    "users": "Vaidik"
+  },
+  {
+    "Attendance": "present",
+    "Codekata": 900,
+    "Placement": "yes",
+    "Topics": "DOM",
+    "_id": ObjectId("5a934e000102030405000003"),
+    "company_drives": "chargebee",
+    "date": "2021-10-06",
+    "id": "4",
+    "mentors": "Pranit",
+    "month": "october",
+    "users": "Yatin"
+  },
+  {
+    "Attendance": "present",
+    "Codekata": 600,
+    "Placement": "yes",
+    "Topics": "Document vs Window",
+    "_id": ObjectId("5a934e000102030405000004"),
+    "company_drives": "chargebee",
+    "date": "2021-10-07",
+    "id": "5",
+    "mentors": "Rayaan",
+    "month": "october",
+    "users": "Nihal"
+  },
+  {
+    "Attendance": "present",
+    "Codekata": 500,
+    "Placement": "yes",
+    "Tasks": "Pagination",
+    "Topics": "Recap of Topics",
+    "_id": ObjectId("5a934e000102030405000005"),
+    "company_drives": "zoho",
+    "date": "2021-10-08",
+    "id": "6",
+    "mentors": "Trijal",
+    "month": "october",
+    "users": "Girik"
+  },
+  {
+    "Attendance": "present",
+    "Codekata": 1000,
+    "Placement": "yes",
+    "Tasks": "Callback Hell practice Task",
+    "Topics": "Callback",
+    "_id": ObjectId("5a934e000102030405000006"),
+    "company_drives": "chargebee",
+    "date": "2021-10-12",
+    "id": "7",
+    "mentors": "Pranit",
+    "month": "october",
+    "users": "Darpan"
+  },
+  {
+    "Attendance": "present",
+    "Codekata": 2000,
+    "Placement": "yes",
+    "Tasks": "promise object task",
+    "Topics": "Promise",
+    "_id": ObjectId("5a934e000102030405000007"),
+    "company_drives": "fresh works",
+    "date": "2021-10-13",
+    "id": "8",
+    "mentors": "Trijal",
+    "users": "Darsh"
+  },
+  {
+    "Attendance": "present",
+    "Codekata": 900,
+    "Placement": "yes",
+    "Tasks": "apitask",
+    "Topics": "Fetch Api",
+    "_id": ObjectId("5a934e000102030405000008"),
+    "company_drives": "zoho",
+    "date": "2021-10-18",
+    "id": "9",
+    "mentors": "Trijal",
+    "month": "october",
+    "users": "Aarav"
+  },
+  {
+    "Attendance": "absent",
+    "Codekata": 4000,
+    "Placement": "yes",
+    "Tasks": "apitask",
+    "Topics": "Promise fetch request info request init",
+    "_id": ObjectId("5a934e000102030405000009"),
+    "company_drives": "fresh works",
+    "date": "2021-10-19",
+    "id": "10",
+    "mentors": "Trijal",
+    "month": "october",
+    "users": "pratheesh"
+  },
+  {
+    "Attendance": "present",
+    "Codekata": 5000,
+    "Placement": "yes",
+    "Tasks": "3 API task",
+    "Topics": "Recap of Topics",
+    "_id": ObjectId("5a934e00010203040500000a"),
+    "company_drives": "zoho",
+    "date": "2021-10-28",
+    "id": "11",
+    "mentors": "Trijal",
+    "month": "october",
+    "users": "ak"
+  },
+  {
+    "Attendance": "absent",
+    "Codekata": 600,
+    "Placement": "yes",
+    "Tasks": "Price cart bootstrap",
+    "Topics": "React",
+    "_id": ObjectId("5a934e00010203040500000b"),
+    "company_drives": "zoho",
+    "date": "2021-11-01",
+    "id": "12",
+    "mentors": "Trijal",
+    "month": "november",
+    "users": "anu"
+  },
+  {
+    "Attendance": "present",
+    "Codekata": 500,
+    "Placement": "yes",
+    "Tasks": "add to cart",
+    "Topics": "React hooks \u0026 states",
+    "_id": ObjectId("5a934e00010203040500000c"),
+    "company_drives": "zoho",
+    "date": "2021-11-02",
+    "id": "13",
+    "mentors": "Trijal",
+    "month": "november",
+    "users": "priya"
+  },
+  {
+    "Attendance": "absent",
+    "Codekata": 1000,
+    "Placement": "yes",
+    "Tasks": " bootstrap task",
+    "Topics": "React components",
+    "_id": ObjectId("5a934e00010203040500000d"),
+    "company_drives": "zoho",
+    "date": "2021-11-08",
+    "id": "14",
+    "mentors": "Trijal",
+    "month": "november",
+    "users": "kani"
+  },
+  {
+    "Attendance": "present",
+    "Codekata": 3000,
+    "Placement": "yes",
+    "Tasks": "CRUD",
+    "Topics": "react router",
+    "_id": ObjectId("5a934e00010203040500000e"),
+    "company_drives": "zoho",
+    "date": "2021-11-09",
+    "id": "15",
+    "mentors": "Trijal",
+    "month": "november",
+    "users": "Aadh"
+  },
+  {
+    "Attendance": "present",
+    "Codekata": 2000,
+    "Placement": "yes",
+    "Topics": "Recap of Topics",
+    "_id": ObjectId("5a934e00010203040500000f"),
+    "company_drives": "zoho",
+    "date": "2021-11-10",
+    "id": "16",
+    "mentors": "Trijal",
+    "month": "november",
+    "users": "Anbu"
+  },
+  {
+    "Attendance": "present",
+    "Codekata": 1500,
+    "Placement": "yes",
+    "Tasks": "CRUD task completion",
+    "Topics": "Context API",
+    "_id": ObjectId("5a934e000102030405000010"),
+    "company_drives": "zoho",
+    "date": "2021-11-11",
+    "id": "17",
+    "mentors": "Trijal",
+    "month": "november",
+    "users": "vetri"
+  },
+  {
+    "Attendance": "present",
+    "Codekata": 2500,
+    "Placement": "yes",
+    "Topics": "Recap of Topics",
+    "_id": ObjectId("5a934e000102030405000011"),
+    "company_drives": "zoho",
+    "date": "2021-11-12",
+    "id": "18",
+    "mentors": "Trijal",
+    "month": "november",
+    "users": "karthik"
+  },
+  {
+    "Attendance": "present",
+    "Codekata": 5000,
+    "Placement": "yes",
+    "Tasks": "task",
+    "Topics": " Axios ",
+    "_id": ObjectId("5a934e000102030405000012"),
+    "company_drives": "zoho",
+    "date": "2021-11-15",
+    "id": "19",
+    "mentors": "Trijal",
+    "month": "november",
+    "users": "san"
+  }
+]
+1.	Find all the topics and tasks which are thought in the month of October
+ANSWER:
+db.collection.aggregate([
+  {
+    $match: {
+      "month": "october"
+    }
+  },
+  {
+    $project: {
+      "Topics": 1,
+      "Tasks": 1
+    }
+  }
+])
+
+
+3.Find all the company drives and students who are appeared for the placement.
+ANSWER:
+db.collection.aggregate([
+  {
+    $match: {
+      "Placement": "yes"
+    }
+  },
+  {
+    $project: {
+      "company_drives": 1,
+      "users": 1
+    }
+  }
+])
+
+4.Find the number of problems solved by the user in codekata
+ANSWER:
+db.collection.aggregate([
+  {
+    $group: {
+      _id: "id",
+      total: {
+        $sum: "$Codekata"
+      }
+    }
+  }
+])
+5.	Find all the mentors with who has the mentee's count more than 15
+ANSWER:
+db.collection.aggregate([
+  {
+    $group: {
+      _id: "$mentors"
+    }
+  }
+])
+db.collection.aggregate([
+  {
+    $match: {
+      "mentors": "Trijal"
+    }
+  },
+  {
+    "$count": "mentors"
+  }
+])
+
+6.	Find the number of users who are absent and task is not submitted  between 15 oct-2020 and 31-oct-2020
+
+ANSWER:
+db.collection.aggregate([
+  {
+    "Attendance": "absent"
+  },
+  {
+    "$and": [
+      {
+        $dayOfMonth: new Date("2021-10-15")
+      },
+      {
+        $dayOfMonth: new Date("2021-10-30")
+      }
+    ]
+  }
+])
+2.	Find all the company drives which appeared between 15 oct-2020 and 31-oct-2020
+
+ANSWER:
+db.collection.find({},
+{
+  "company_drives": 1
+})
+db.collection.find({},
+{
+  "company_drives": 1
+},{ "$and": [
+      {
+        $dayOfMonth: new Date("2021-10-15")
+      },
+      {
+        $dayOfMonth: new Date("2021-10-30")
+      }
+    ]
+
+})
+              
